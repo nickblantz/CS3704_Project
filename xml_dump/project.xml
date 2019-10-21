@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Author="Group 1" CommentTableSortAscending="false" CommentTableSortColumn="Date Time" Description="&lt;html&gt;&#13;&#10;  &lt;head&gt;&#13;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Dialog; font-size: 12px }&#10;      --&gt;&#10;    &lt;/style&gt;&#13;&#10;    &#13;&#10;  &lt;/head&gt;&#13;&#10;  &lt;body&gt;&#13;&#10;  &lt;/body&gt;&#13;&#10;&lt;/html&gt;&#13;&#10;" DocumentationType="html" ExportedFromDifferentName="false" ExporterVersion="12.2" Name="CS3704_Project" TextualAnalysisHighlightOptionCaseSensitive="false" UmlVersion="2.x" Xml_structure="simple">
+	<ProjectInfo>
+		<LogicalView/>
+		<ProjectOptions>
+			<DiagramOptions ActivityDiagramControlFlowDisplayOption="\u0000" ActivityDiagramShowActionCallBehaviorOption="\u0000" ActivityDiagramShowActivityEdgeWeight="true" ActivityDiagramShowObjectNodeType="true" ActivityDiagramShowPartitionHandle="\u0000" AddDataStoresExtEntitiesToDecomposedDFD="\u0002" AlignColumnProperties="true" AllowConfigShowInOutFlowButtonsInDataFlowDiagram="false" AutoGenerateRoleName="false" AutoSetAttributeType="true" AutoSetColumnType="true" AutoSyncRoleName="true" BpdAutoStretchPools="true" BpdConnectGatewayWithFlowObjectInDifferentPool="\u0000" BpdDefaultConnectionPointStyle="\u0001" BpdDefaultConnectorStyle="\u0005" BpdDhowIdOption="\u0000" BpdShowActivitiesTypeIcon="true" BusinessProcessDiagramDefaultLanguage="English" ClassVisibilityStyle="\u0001" ConnectorLabelOrientation="\u0000" CreateOneMessagePerDirection="true" DecisionMergeNodeConnectionPointStyle="\u0000" DefaultAssociationEndNavigable="\u0001" DefaultAssociationEndVisibility="\u0000" DefaultAssociationShowFromMultiplicity="true" DefaultAssociationShowFromRoleName="true" DefaultAssociationShowFromRoleVisibility="true" DefaultAssociationShowStereotypes="true" DefaultAssociationShowToMultiplicity="true" DefaultAssociationShowToRoleName="true" DefaultAssociationShowToRoleVisibility="true" DefaultAttributeMultiplicity="false" DefaultAttributeType="" DefaultAttributeVisibility="\u0001" DefaultClassAttributeMultiplicity="" DefaultClassAttributeMultiplicityOrdered="false" DefaultClassAttributeMultiplicityUnique="true" DefaultClassInterfaceBall="false" DefaultClassVisibility="\u0004" DefaultColumnType="integer(10)" DefaultConnectionPointStyle="\u0000" DefaultConnectorStyle="\u0001" DefaultDiagramBackground="rgb(255, 255, 255)" DefaultDisplayAsRobustnessAnalysisIcon="true" DefaultDisplayAsRobustnessAnalysisIconInSequenceDiagram="true" DefaultDisplayAsStereotypeIcon="false" DefaultFontColor="rgb(0, 0, 0)" DefaultGenDiagramTypeFromScenario="\u0000" DefaultHtmlDocFontColor="rgb(0, 0, 0)" DefaultLineJumps="\u0000" DefaultOperationVisibility="\u0004" DefaultParameterDirection="\u0002" DefaultShowAttributeInitialValue="true" DefaultShowAttributeOption="\u0001" DefaultShowClassMemberStereotype="true" DefaultShowDirection="false" DefaultShowMultiplicityConstraints="false" DefaultShowOperationOption="\u0001" DefaultShowOperationSignature="true" DefaultShowOrderedMultiplicityConstraint="true" DefaultShowOwnedAssociationEndAsAttribute="true" DefaultShowOwner="false" DefaultShowOwnerSkipModelInFullyQualifiedOwnerSignature="true" DefaultShowTemplateParameter="true" DefaultShowTypeOption="\u0001" DefaultShowUniqueMultiplicityConstraint="true" DefaultTypeOfSubProcess="\u0000" DefaultWrapClassMember="false" DrawTextAnnotationOpenRectangleFollowConnectorEnd="true" EnableMinimumSize="true" EntityColumnConstraintsPresentation="\u0002" ErdIndexNumOfDigits="-1" ErdIndexPattern="{table_name}" ErdIndexPatternSyncAutomatically="true" ErdManyToManyJoinTableDelimiter="_" EtlTableDiagramFontSize="14" ExpandedSubProcessDiagramContent="\u0001" ForeignKeyArrowHeadSize="\u0002" ForeignKeyConnectorEndPointAssociatedColumn="false" ForeignKeyNamePattern="{reference_table_name}{reference_column_name}" ForeignKeyNamePatternCaseHandling="0" ForeignKeyRelationshipPattern="{association_name}" FractionalMetrics="true" GeneralizationSetNotation="\u0001" GraphicAntiAliasing="true" GridDiagramFontSize="14" LineJumpSize="\u0000" ModelElementNameAlignment="\u0004" MultipleLineClassName="\u0001" PaintConnectorThroughLabel="false" PointConnectorEndToCompartmentMember="true" PrimaryKeyConstraintPattern="" PrimaryKeyNamePattern="ID" RenameConstructorAfterRenameClass="\u0000" RenameExtensionPointToFollowExtendUseCase="\u0000" ShapeAutoFitSize="false" ShowActivationsInSequenceDiagram="true" ShowActivityStateNodeCaption="524287" ShowArtifactOption="\u0002" ShowAssociatedDiagramNameOfInteraction="false" ShowAssociationRoleStereotypes="true" ShowAttributeGetterSetter="false" ShowClassEmptyCompartments="false" ShowColumnNullable="true" ShowColumnType="true" ShowColumnUniqueConstraintName="false" ShowColumnUserType="false" ShowComponentOption="\u0002" ShowExtraColumnProperties="true" ShowInOutFlowButtonsInDataFlowDiagram="false" ShowInOutFlowsInSubLevelDiagram="true" ShowMessageOperationSignatureForSequenceAndCommunicationDiagram="true" ShowMessageStereotypeInSequenceAndCommunicationDiagram="true" ShowNumberInCollaborationDiagram="true" ShowNumberInSequenceDiagram="true" ShowPackageNameStyle="\u0000" ShowParameterNameInOperationSignature="true" ShowRowGridLineWithinCompClassDiagram="false" ShowRowGridLineWithinCompERD="true" ShowRowGridLineWithinORMDiagram="true" ShowSchemaNameInERD="true" ShowTransitionTrigger="\u0000" ShowUseCaseExtensionPoint="true" ShowUseCaseID="false" StateShowParametersOfInternalActivities="false" StateShowPrePostConditionAndBodyOfInternalActivities="true" StopTargetLifelineOnCreateDestroyMessage="\u0002" SupportHtmlTaggedValue="false" SupportMultipleLineAttribute="true" SuppressImpliedMultiplicityForAttributeAssociationEnd="false" SyncAssociationNameWithAssociationClass="\u0000" SyncAssociationRoleNameWithReferencedAttributeName="true" SyncDocOfInterfaceToSubClass="\u0000" TextAntiAliasing="true" TextualAnalysisGenerateRequirementTextOption="\u0001" TextualAnalysisHighlightOption="\u0000" UnnamedIndexPattern="{table_name}_{column_name}" UseStateNameTab="false" WireflowDiagramDevice="0" WireflowDiagramShowActiveFlowLabel="true" WireflowDiagramTheme="0" WireflowDiagramWireflowShowPreview="true" WireflowDiagramWireflowShowScreenId="true">
+				<DefaultHtmlDocFont Family="Dialog" Size="12" Style="0"/>
+			</DiagramOptions>
+			<GeneralOptions ConfirmSubLevelIdWithDot="true"/>
+			<InstantReverseOptions CalculateGeneralizationAndRealization="false" CreateShapeForParentModelOfDraggedClassPackage="false" ReverseGetterSetter="\u0000" ReverseOperationImplementation="false" ShowPackageForNewDiagram="\u0001" ShowPackageOwner="\u0000"/>
+			<ModelQualityOptions EnableModelQualityChecking="false"/>
+			<ORMOptions DecimalPrecision="19" DecimalScale="0" ExportCommentToDatabase="true" FormattedSQL="false" GenerateAssociationWithAttribute="false" GenerateDiagramFromORMWizards="true" GetterSetterVisibility="\u0000" IdGeneratorType="native" MappingFileColumnOrder="\u0000" NumericToClassType="\u0000" QuoteSQLIdentifier="\u0000" RecreateShapeWhenSync="false" SyncToClassDiagramAttributeName="\u0001" SyncToClassDiagramAttributeNamePrefix="" SyncToClassDiagramAttributeNameSuffix="" SyncToClassDiagramClassName="\u0000" SyncToClassDiagramClassNamePrefix="" SyncToClassDiagramClassNameSuffix="" SyncToERDColumnName="\u0000" SyncToERDColumnNamePrefix="" SyncToERDColumnNameSuffix="" SyncToERDTableName="\u0004" SyncToERDTableNamePrefix="" SyncToERDTableNameSuffix="" SynchronizeDefaultValueToColumn="false" SynchronizeName="\u0002" TablePerSubclassFKMapping="\u0000" UpperCaseSQL="true" UseDefaultDecimal="true" WrappingServletRequest="\u0001"/>
+			<RequirementDiagramOptions DefaultWrapMember="true" ShowAttributes="\u0001" SupportHTMLAttribute="false"/>
+			<StateCodeEngineOptions AutoCreateInitialStateInStateDiagram="true" AutoCreateTransitionMethods="true" DefaultInitialStateLocationX="-1" DefaultInitialStateLocationY="-1" GenerateDebugMessage="false" GenerateSample="true" GenerateTryCatch="true" Language="\u0000" RegenerateTransitionMethods="false" SyncTransitionMethods="true"/>
+			<WarningOptions CreateORMClassInDefaultPackage="true"/>
+			<PORepository>
+				<POUserIDFormats>
+					<POUserIDFormat Digits="2" Guid="false" Id="PJ9a.7aFYHhKfAuC" LastNumericValue="0" ModelType="BPMNElement" Prefix="BP" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="_J9a.7aFYHhKfAuD" LastNumericValue="3" ModelType="Actor" Prefix="AC" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="_J9a.7aFYHhKfAuE" LastNumericValue="8" ModelType="UseCase" Prefix="UC" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="_J9a.7aFYHhKfAuF" LastNumericValue="0" ModelType="Requirement" Prefix="REQ" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="_J9a.7aFYHhKfAuG" LastNumericValue="0" ModelType="BusinessRule" Prefix="BR" Suffix=""/>
+					<POUserIDFormat Digits="-1" Guid="false" Id="Ap9a.7aFYHhKfAuH" LastNumericValue="0" ModelType="BusinessProcessDiagram" Prefix="" Suffix=""/>
+				</POUserIDFormats>
+			</PORepository>
+		</ProjectOptions>
+	</ProjectInfo>
+	<Models>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="yFda.7aFYHhKfAgJ" Name="boolean" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.371" PmLastModified="2019-10-18T10:52:45.461" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="RFda.7aFYHhKfAgK" Name="byte" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.386" PmLastModified="2019-10-18T10:52:45.428" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="RFda.7aFYHhKfAgL" Name="char" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.386" PmLastModified="2019-10-18T10:52:45.427" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="RFda.7aFYHhKfAgM" Name="double" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.386" PmLastModified="2019-10-18T10:52:45.427" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="RFda.7aFYHhKfAgN" Name="float" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.386" PmLastModified="2019-10-18T10:52:45.427" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="RFda.7aFYHhKfAgO" Name="int" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.386" PmLastModified="2019-10-18T10:52:45.422" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="RFda.7aFYHhKfAgP" Name="long" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.386" PmLastModified="2019-10-18T10:52:45.422" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="RFda.7aFYHhKfAgQ" Name="short" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.386" PmLastModified="2019-10-18T10:52:45.422" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="RFda.7aFYHhKfAgR" Name="void" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.386" PmLastModified="2019-10-18T10:52:45.422" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="RFda.7aFYHhKfAgS" Name="string" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.386" PmLastModified="2019-10-18T10:52:45.422" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<Stereotype Abstract="false" BacklogActivityId="0" BaseType="UseCase" Documentation_plain="" Id="T9da.7aFYHhKfAov" Leaf="false" Name="UseCase" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.891" PmLastModified="2019-10-18T10:52:45.479" QualityScore="-1" Root="false" UserIDLastNumericValue="0">
+			<TaggedValueDefinitions>
+				<TaggedValueDefinitionContainer Id="f9da.7aFYHhKfAow" Name="">
+					<ModelChildren>
+						<TaggedValueDefinition BacklogActivityId="0" DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="f9da.7aFYHhKfAox" Name="Level" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.875" PmLastModified="2019-10-18T10:52:45.479" QualityScore="-1" TagDefStereotype="T9da.7aFYHhKfAov" Type="Enumeration" UserIDLastNumericValue="0">
+							<EnumerationValues>
+								<Value Value="Summary"/>
+								<Value Value="User"/>
+								<Value Value="Subfunction"/>
+							</EnumerationValues>
+						</TaggedValueDefinition>
+						<TaggedValueDefinition BacklogActivityId="0" DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="0Dda.7aFYHhKfAoy" Name="Complexity" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.879" PmLastModified="2019-10-18T10:52:45.479" QualityScore="-1" TagDefStereotype="T9da.7aFYHhKfAov" Type="Enumeration" UserIDLastNumericValue="0">
+							<EnumerationValues>
+								<Value Value="Low"/>
+								<Value Value="Medium"/>
+								<Value Value="High"/>
+							</EnumerationValues>
+						</TaggedValueDefinition>
+						<TaggedValueDefinition BacklogActivityId="0" DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="8Dda.7aFYHhKfAoz" Name="Use Case Status" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.879" PmLastModified="2019-10-18T10:52:45.479" QualityScore="-1" TagDefStereotype="T9da.7aFYHhKfAov" Type="Enumeration" UserIDLastNumericValue="0">
+							<EnumerationValues>
+								<Value Value="Name Only"/>
+								<Value Value="Initial"/>
+								<Value Value="Base"/>
+								<Value Value="Complete"/>
+								<Value Value="Deferred"/>
+							</EnumerationValues>
+						</TaggedValueDefinition>
+						<TaggedValueDefinition BacklogActivityId="0" DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="8Dda.7aFYHhKfAo0" Name="Implementation Status" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.885" PmLastModified="2019-10-18T10:52:45.479" QualityScore="-1" TagDefStereotype="T9da.7aFYHhKfAov" Type="Enumeration" UserIDLastNumericValue="0">
+							<EnumerationValues>
+								<Value Value="Scheduled"/>
+								<Value Value="Started"/>
+								<Value Value="Partially Complete"/>
+								<Value Value="Complete"/>
+								<Value Value="Partially Deferred"/>
+							</EnumerationValues>
+						</TaggedValueDefinition>
+						<TaggedValueDefinition BacklogActivityId="0" DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="qDda.7aFYHhKfAo1" Name="Preconditions" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.885" PmLastModified="2019-10-18T10:52:45.479" QualityScore="-1" TagDefStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0"/>
+						<TaggedValueDefinition BacklogActivityId="0" DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="qDda.7aFYHhKfAo2" Name="Post-conditions" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.891" PmLastModified="2019-10-18T10:52:45.479" QualityScore="-1" TagDefStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0"/>
+						<TaggedValueDefinition BacklogActivityId="0" DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="2Dda.7aFYHhKfAo3" Name="Author" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.891" PmLastModified="2019-10-18T10:52:45.479" QualityScore="-1" TagDefStereotype="T9da.7aFYHhKfAov" Type="Text" UserIDLastNumericValue="0"/>
+						<TaggedValueDefinition BacklogActivityId="0" DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="2Dda.7aFYHhKfAo4" Name="Assumptions" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:20.891" PmLastModified="2019-10-18T10:52:45.479" QualityScore="-1" TagDefStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0"/>
+					</ModelChildren>
+				</TaggedValueDefinitionContainer>
+			</TaggedValueDefinitions>
+		</Stereotype>
+		<System Abstract="false" BacklogActivityId="0" Documentation_plain="" Id="hWXa.7aFYHhKfAuZ" Leaf="false" Name="Smart Kitchen" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:53:08.641" PmLastModified="2019-10-20T19:57:10.338" QualityScore="-1" Root="false" UserIDLastNumericValue="0">
+			<MasterView>
+				<System Idref="BWXa.7aFYHhKfAuY" Name="Smart Kitchen"/>
+			</MasterView>
+			<ModelChildren>
+				<UseCase Abstract="false" BacklogActivityId="0" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="iW.6.7aFYHhKfAvb" Justification="" Leaf="false" Name="Add item to inventory" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:55:40.177" PmLastModified="2019-10-20T19:36:43.221" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC01" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="T9da.7aFYHhKfAov" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="qW.6.7aFYHhKfAvc" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="qW.6.7aFYHhKfAvd" Multiplicity="Unspecified" Name="Level" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:55:40.181" PmLastModified="2019-10-18T10:55:50.845" QualityScore="-1" TagDefinition="f9da.7aFYHhKfAox" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="uW.6.7aFYHhKfAve" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:55:40.189" PmLastModified="2019-10-18T10:55:50.845" QualityScore="-1" TagDefinition="0Dda.7aFYHhKfAoy" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="eW.6.7aFYHhKfAvf" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:55:40.190" PmLastModified="2019-10-18T10:55:50.845" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAoz" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="eW.6.7aFYHhKfAvg" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:55:40.190" PmLastModified="2019-10-18T10:55:50.845" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAo0" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="eW.6.7aFYHhKfAvh" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:55:40.190" PmLastModified="2019-10-18T10:55:50.845" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo1" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="eW.6.7aFYHhKfAvi" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:55:40.190" PmLastModified="2019-10-18T10:55:50.845" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo2" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="RW.6.7aFYHhKfAvj" Multiplicity="Unspecified" Name="Author" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:55:40.194" PmLastModified="2019-10-18T10:55:50.845" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo3" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="xW.6.7aFYHhKfAvk" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:55:40.195" PmLastModified="2019-10-18T10:55:50.845" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo4" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<MasterView>
+						<UseCase Idref="iW.6.7aFYHhKfAva" Name="Add item to inventory"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BacklogActivityId="0" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="toLh17aFYHhKfAv0" Justification="" Leaf="false" Name="Remove item from inventory" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:12.949" PmLastModified="2019-10-20T19:36:43.206" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC02" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="T9da.7aFYHhKfAov" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="QYLh17aFYHhKfAv1" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="wYLh17aFYHhKfAv2" Multiplicity="Unspecified" Name="Level" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:12.937" PmLastModified="2019-10-20T19:36:43.206" QualityScore="-1" TagDefinition="f9da.7aFYHhKfAox" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="kYLh17aFYHhKfAv3" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:12.939" PmLastModified="2019-10-20T19:36:43.206" QualityScore="-1" TagDefinition="0Dda.7aFYHhKfAoy" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="0YLh17aFYHhKfAv4" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:12.941" PmLastModified="2019-10-20T19:36:43.206" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAoz" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="sYLh17aFYHhKfAv5" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:12.942" PmLastModified="2019-10-20T19:36:43.206" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAo0" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="cYLh17aFYHhKfAv6" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:12.943" PmLastModified="2019-10-20T19:36:43.206" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo1" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="CYLh17aFYHhKfAv7" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:12.945" PmLastModified="2019-10-20T19:36:43.206" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo2" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="iYLh17aFYHhKfAv8" Multiplicity="Unspecified" Name="Author" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:12.946" PmLastModified="2019-10-20T19:36:43.206" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo3" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="yYLh17aFYHhKfAv9" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:12.948" PmLastModified="2019-10-20T19:36:43.206" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo4" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<MasterView>
+						<UseCase Idref="KoLh17aFYHhKfAvy" Name="Remove item from inventory"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BacklogActivityId="0" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="YkHh17aFYHhKfAwP" Justification="" Leaf="false" Name="Display list of items" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:29.549" PmLastModified="2019-10-20T19:37:02.347" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC03" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="T9da.7aFYHhKfAov" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="GkHh17aFYHhKfAwQ" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="mkHh17aFYHhKfAwR" Multiplicity="Unspecified" Name="Level" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:29.532" PmLastModified="2019-10-20T19:36:43.193" QualityScore="-1" TagDefinition="f9da.7aFYHhKfAox" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="OkHh17aFYHhKfAwS" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:29.532" PmLastModified="2019-10-20T19:36:43.193" QualityScore="-1" TagDefinition="0Dda.7aFYHhKfAoy" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="OkHh17aFYHhKfAwT" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:29.532" PmLastModified="2019-10-20T19:36:43.193" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAoz" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="RkHh17aFYHhKfAwU" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:29.539" PmLastModified="2019-10-20T19:36:43.193" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAo0" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="pkHh17aFYHhKfAwV" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:29.543" PmLastModified="2019-10-20T19:36:43.193" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo1" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="5kHh17aFYHhKfAwW" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:29.545" PmLastModified="2019-10-20T19:36:43.193" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo2" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="lkHh17aFYHhKfAwX" Multiplicity="Unspecified" Name="Author" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:29.547" PmLastModified="2019-10-20T19:36:43.193" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo3" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="1kHh17aFYHhKfAwY" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:29.549" PmLastModified="2019-10-20T19:36:43.193" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo4" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<MasterView>
+						<UseCase Idref="zEHh17aFYHhKfAwN" Name="Display list of items"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BacklogActivityId="0" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="Hsvh17aFYHhKfAwo" Justification="" Leaf="false" Name="Show usage stats" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:50.316" PmLastModified="2019-10-20T19:39:23.447" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC04" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="T9da.7aFYHhKfAov" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="Ycvh17aFYHhKfAwp" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="Ycvh17aFYHhKfAwq" Multiplicity="Unspecified" Name="Level" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:50.311" PmLastModified="2019-10-20T19:37:02.369" QualityScore="-1" TagDefinition="f9da.7aFYHhKfAox" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="Ecvh17aFYHhKfAwr" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:50.313" PmLastModified="2019-10-20T19:37:02.369" QualityScore="-1" TagDefinition="0Dda.7aFYHhKfAoy" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="kcvh17aFYHhKfAws" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:50.314" PmLastModified="2019-10-20T19:37:02.369" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAoz" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="Ucvh17aFYHhKfAwt" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:50.315" PmLastModified="2019-10-20T19:37:02.369" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAo0" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="0cvh17aFYHhKfAwu" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:50.316" PmLastModified="2019-10-20T19:37:02.369" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo1" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="Mcvh17aFYHhKfAwv" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:50.316" PmLastModified="2019-10-20T19:37:02.369" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo2" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="Mcvh17aFYHhKfAww" Multiplicity="Unspecified" Name="Author" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:50.316" PmLastModified="2019-10-20T19:37:02.369" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo3" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="Mcvh17aFYHhKfAwx" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:36:50.316" PmLastModified="2019-10-20T19:37:02.369" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo4" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<MasterView>
+						<UseCase Idref="bsvh17aFYHhKfAwm" Name="Show usage stats"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BacklogActivityId="0" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="48.R17aFYHhKfAxI" Justification="" Leaf="false" Name="Manage auto-restock settings" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:39:09.680" PmLastModified="2019-10-20T19:49:44.002" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC05" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="T9da.7aFYHhKfAov" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="u8.R17aFYHhKfAxJ" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="e8.R17aFYHhKfAxK" Multiplicity="Unspecified" Name="Level" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:39:09.664" PmLastModified="2019-10-20T19:39:23.438" QualityScore="-1" TagDefinition="f9da.7aFYHhKfAox" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="B8.R17aFYHhKfAxL" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:39:09.666" PmLastModified="2019-10-20T19:39:23.438" QualityScore="-1" TagDefinition="0Dda.7aFYHhKfAoy" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="x8.R17aFYHhKfAxM" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:39:09.667" PmLastModified="2019-10-20T19:39:23.438" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAoz" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="x8.R17aFYHhKfAxN" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:39:09.667" PmLastModified="2019-10-20T19:39:23.438" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAo0" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="58.R17aFYHhKfAxO" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:39:09.672" PmLastModified="2019-10-20T19:39:23.438" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo1" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="l8.R17aFYHhKfAxP" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:39:09.674" PmLastModified="2019-10-20T19:39:23.438" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo2" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="V8.R17aFYHhKfAxQ" Multiplicity="Unspecified" Name="Author" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:39:09.677" PmLastModified="2019-10-20T19:39:23.438" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo3" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="t8.R17aFYHhKfAxR" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:39:09.678" PmLastModified="2019-10-20T19:39:23.438" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo4" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<MasterView>
+						<UseCase Idref="o8.R17aFYHhKfAxG" Name="Manage auto-restock settings"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BacklogActivityId="0" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="h07J17aFYHhKfAxj" Justification="" Leaf="false" Name="Create restock order" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:32.036" PmLastModified="2019-10-20T19:50:08.137" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC06" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="T9da.7aFYHhKfAov" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="V07J17aFYHhKfAxk" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="107J17aFYHhKfAxl" Multiplicity="Unspecified" Name="Level" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:32.011" PmLastModified="2019-10-20T19:49:43.993" QualityScore="-1" TagDefinition="f9da.7aFYHhKfAox" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="N07J17aFYHhKfAxm" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:32.012" PmLastModified="2019-10-20T19:49:43.993" QualityScore="-1" TagDefinition="0Dda.7aFYHhKfAoy" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="N07J17aFYHhKfAxn" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:32.012" PmLastModified="2019-10-20T19:49:43.993" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAoz" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="N07J17aFYHhKfAxo" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:32.012" PmLastModified="2019-10-20T19:49:43.993" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAo0" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="N07J17aFYHhKfAxp" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:32.031" PmLastModified="2019-10-20T19:49:43.993" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo1" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="AM7J17aFYHhKfAxq" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:32.033" PmLastModified="2019-10-20T19:49:43.993" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo2" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="gM7J17aFYHhKfAxr" Multiplicity="Unspecified" Name="Author" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:32.033" PmLastModified="2019-10-20T19:49:43.993" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo3" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="gM7J17aFYHhKfAxs" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:32.035" PmLastModified="2019-10-20T19:49:43.993" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo4" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<MasterView>
+						<UseCase Idref="u07J17aFYHhKfAxh" Name="Create restock order"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BacklogActivityId="0" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="VnXJ17aFYHhKfAyE" Justification="" Leaf="false" Name="Approve restock order" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:47.278" PmLastModified="2019-10-20T19:57:10.330" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC07" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="T9da.7aFYHhKfAov" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="nnXJ17aFYHhKfAyF" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="nnXJ17aFYHhKfAyG" Multiplicity="Unspecified" Name="Level" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:47.257" PmLastModified="2019-10-20T19:50:08.124" QualityScore="-1" TagDefinition="f9da.7aFYHhKfAox" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="nnXJ17aFYHhKfAyH" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:47.257" PmLastModified="2019-10-20T19:50:08.124" QualityScore="-1" TagDefinition="0Dda.7aFYHhKfAoy" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="nnXJ17aFYHhKfAyI" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:47.257" PmLastModified="2019-10-20T19:50:08.124" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAoz" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="nnXJ17aFYHhKfAyJ" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:47.269" PmLastModified="2019-10-20T19:50:08.124" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAo0" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="oXXJ17aFYHhKfAyK" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:47.269" PmLastModified="2019-10-20T19:50:08.124" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo1" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="oXXJ17aFYHhKfAyL" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:47.269" PmLastModified="2019-10-20T19:50:08.124" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo2" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="oXXJ17aFYHhKfAyM" Multiplicity="Unspecified" Name="Author" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:47.274" PmLastModified="2019-10-20T19:50:08.124" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo3" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="UXXJ17aFYHhKfAyN" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:49:47.277" PmLastModified="2019-10-20T19:50:08.124" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo4" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<MasterView>
+						<UseCase Idref="hnXJ17aFYHhKfAyC" Name="Approve restock order"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BacklogActivityId="0" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="jkJZ17aFYHhKfAyv" Justification="" Leaf="false" Name="Manage restock order" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:56:58.390" PmLastModified="2019-10-20T19:58:07.582" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC08" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="T9da.7aFYHhKfAov" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="4UJZ17aFYHhKfAyw" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="EUJZ17aFYHhKfAyx" Multiplicity="Unspecified" Name="Level" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:56:58.379" PmLastModified="2019-10-20T19:57:10.345" QualityScore="-1" TagDefinition="f9da.7aFYHhKfAox" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="0UJZ17aFYHhKfAyy" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:56:58.380" PmLastModified="2019-10-20T19:57:10.345" QualityScore="-1" TagDefinition="0Dda.7aFYHhKfAoy" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="sUJZ17aFYHhKfAyz" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:56:58.382" PmLastModified="2019-10-20T19:57:10.345" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAoz" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="cUJZ17aFYHhKfAy0" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:56:58.384" PmLastModified="2019-10-20T19:57:10.345" QualityScore="-1" TagDefinition="8Dda.7aFYHhKfAo0" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="CUJZ17aFYHhKfAy1" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:56:58.385" PmLastModified="2019-10-20T19:57:10.345" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo1" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="iUJZ17aFYHhKfAy2" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:56:58.385" PmLastModified="2019-10-20T19:57:10.345" QualityScore="-1" TagDefinition="qDda.7aFYHhKfAo2" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="iUJZ17aFYHhKfAy3" Multiplicity="Unspecified" Name="Author" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:56:58.390" PmLastModified="2019-10-20T19:57:10.345" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo3" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue BacklogActivityId="0" Documentation_plain="" Id="aUJZ17aFYHhKfAy4" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Admin" PmCreateDateTime="2019-10-20T19:56:58.390" PmLastModified="2019-10-20T19:57:10.345" QualityScore="-1" TagDefinition="2Dda.7aFYHhKfAo4" TagDefinitionStereotype="T9da.7aFYHhKfAov" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<MasterView>
+						<UseCase Idref="tkJZ17aFYHhKfAyt" Name="Manage restock order"/>
+					</MasterView>
+				</UseCase>
+			</ModelChildren>
+		</System>
+		<Actor Abstract="false" BacklogActivityId="0" BusinessModel="false" Documentation_plain="" FontSize="0" Id="d8Q6.7aFYHhKfAuj" Leaf="false" Name="User" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:53:40.718" PmLastModified="2019-10-18T10:54:31.004" QualityScore="-1" Root="false" UserID="AC01" UserIDLastNumericValue="0" Visibility="public">
+			<MasterView>
+				<Actor Idref="t8Q6.7aFYHhKfAui" Name="User"/>
+			</MasterView>
+		</Actor>
+		<Actor Abstract="false" BacklogActivityId="0" BusinessModel="false" Documentation_plain="" FontSize="0" Id="ttk6.7aFYHhKfAu7" Leaf="false" Name="Item Vendor" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:54:11.309" PmLastModified="2019-10-18T10:54:57.643" QualityScore="-1" Root="false" UserID="AC02" UserIDLastNumericValue="0" Visibility="public">
+			<MasterView>
+				<Actor Idref="ttk6.7aFYHhKfAu6" Name="Item Vendor"/>
+			</MasterView>
+		</Actor>
+		<Actor Abstract="false" BacklogActivityId="0" BusinessModel="false" Documentation_plain="" FontSize="0" Id="nRS6.7aFYHhKfAvR" Leaf="false" Name="Recipe Data Source" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:54:47.481" PmLastModified="2019-10-18T10:55:08.181" QualityScore="-1" Root="false" UserID="AC03" UserIDLastNumericValue="0" Visibility="public">
+			<MasterView>
+				<Actor Idref="nRS6.7aFYHhKfAvQ" Name="Recipe Data Source"/>
+			</MasterView>
+		</Actor>
+	</Models>
+	<Diagrams>
+		<UseCaseDiagram AlignToGrid="false" AutoFitShapesSize="false" ConnectionPointStyle="0" ConnectorLabelOrientation="0" ConnectorLineJumps="0" ConnectorLineJumpsSize="0" ConnectorModelElementNameAlignment="4" ConnectorStyle="1" DiagramBackground="rgb(255, 255, 255)" Editable="true" FollowDiagramParentElement="true" GridColor="rgb(192, 192, 192)" GridHeight="10" GridVisible="false" GridWidth="10" Height="573" HideConnectorIfFromToIsHidden="0" HideEmptyTaggedValues="false" Id="pvja.7aFYHhKfAuI" ImageHeight="0" ImageScale="1.0" ImageWidth="0" InitializeDiagramForCreate="true" Maximized="true" ModelElementNameAlignment="4" Name="UCD" PaintConnectorThroughLabel="1" PmAuthor="Admin" PmCreateDateTime="2019-10-18T10:52:34.021" PmLastModified="2019-10-20T19:57:57.581" PointConnectorEndToCompartmentMember="true" QualityScore="-1" RequestFitSizeWithPromptUser="false" RequestValidateSnapToGrid="false" ShapePresentationOption="0" ShowActivityStateNodeCaption="524287" ShowAllocatedFrom="true" ShowAllocatedTo="true" ShowColorLegend="false" ShowConnectorName="0" ShowConstraints="false" ShowDefaultPackage="false" ShowExtendCondition="false" ShowInformationItemOption="2" ShowPMAuthor="false" ShowPMDifficulty="false" ShowPMDiscipline="false" ShowPMIteration="false" ShowPMPhase="false" ShowPMPriority="false" ShowPMStatus="false" ShowPMVersion="false" ShowPackageNameStyle="0" ShowShapeLegend="false" ShowShapeStereotypeIconName="true" ShowStereotypes="true" ShowTaggedValues="false" ShowUseCaseExtensionPoint="true" ShowUseCaseId="false" TeamworkCreateDateTime="0" TrimmedHeight="0" TrimmedWidth="0" UseCaseDisplayOption="0" Width="1159" X="0" Y="0" ZoomRatio="1.0" _actorDisplayOption="0" _globalPaletteOption="true">
+			<Shapes>
+				<System Background="rgb(122, 207, 245)" CaptionAlignment="0" ConnectToPoint="true" ConnectionPointType="2" Foreground="rgb(0, 0, 0)" Height="594" Id="BWXa.7aFYHhKfAuY" MetaModelElement="hWXa.7aFYHhKfAuZ" Model="hWXa.7aFYHhKfAuZ" ModelElementNameAlignment="1" Name="Smart Kitchen" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="482" X="230" Y="47" ZOrder="24">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="594" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="482" X="0" Y="0"/>
+					<DiagramElementChildren>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="40" Id="iW.6.7aFYHhKfAva" MetaModelElement="iW.6.7aFYHhKfAvb" Model="iW.6.7aFYHhKfAvb" ModelElementNameAlignment="9" Name="Add item to inventory" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="114" X="276" Y="91" ZOrder="16">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="114" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="40" Id="KoLh17aFYHhKfAvy" MetaModelElement="toLh17aFYHhKfAv0" Model="toLh17aFYHhKfAv0" ModelElementNameAlignment="9" Name="Remove item from inventory" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="114" X="276" Y="149" ZOrder="14">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="114" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="40" Id="zEHh17aFYHhKfAwN" MetaModelElement="YkHh17aFYHhKfAwP" Model="YkHh17aFYHhKfAwP" ModelElementNameAlignment="9" Name="Display list of items" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="114" X="276" Y="207" ZOrder="12">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="114" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="40" Id="bsvh17aFYHhKfAwm" MetaModelElement="Hsvh17aFYHhKfAwo" Model="Hsvh17aFYHhKfAwo" ModelElementNameAlignment="9" Name="Show usage stats" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="114" X="276" Y="265" ZOrder="10">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="114" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="40" Id="o8.R17aFYHhKfAxG" MetaModelElement="48.R17aFYHhKfAxI" Model="48.R17aFYHhKfAxI" ModelElementNameAlignment="9" Name="Manage auto-restock settings" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="114" X="276" Y="323" ZOrder="8">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="114" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="40" Id="u07J17aFYHhKfAxh" MetaModelElement="h07J17aFYHhKfAxj" Model="h07J17aFYHhKfAxj" ModelElementNameAlignment="9" Name="Create restock order" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="114" X="276" Y="381" ZOrder="6">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="114" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="40" Id="hnXJ17aFYHhKfAyC" MetaModelElement="VnXJ17aFYHhKfAyE" Model="VnXJ17aFYHhKfAyE" ModelElementNameAlignment="9" Name="Approve restock order" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="114" X="276" Y="439" ZOrder="4">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="114" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="40" Id="tkJZ17aFYHhKfAyt" MetaModelElement="jkJZ17aFYHhKfAyv" Model="jkJZ17aFYHhKfAyv" ModelElementNameAlignment="9" Name="Manage restock order" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="114" X="276" Y="497" ZOrder="2">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="114" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+					</DiagramElementChildren>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+				</System>
+				<Actor Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CreatorDiagramType="UseCaseDiagram" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="60" Id="t8Q6.7aFYHhKfAui" MetaModelElement="d8Q6.7aFYHhKfAuj" Model="d8Q6.7aFYHhKfAuj" ModelElementNameAlignment="9" Name="User" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="30" X="114" Y="246" ZOrder="22">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="South" Visible="true" Width="44" X="107" Y="306"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+				</Actor>
+				<Actor Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CreatorDiagramType="UseCaseDiagram" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="60" Id="ttk6.7aFYHhKfAu6" MetaModelElement="ttk6.7aFYHhKfAu7" Model="ttk6.7aFYHhKfAu7" ModelElementNameAlignment="9" Name="Item Vendor" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="30" X="782" Y="140" ZOrder="20">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="South" Visible="true" Width="80" X="757" Y="200"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+				</Actor>
+				<Actor Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CreatorDiagramType="UseCaseDiagram" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="60" Id="nRS6.7aFYHhKfAvQ" MetaModelElement="nRS6.7aFYHhKfAvR" Model="nRS6.7aFYHhKfAvR" ModelElementNameAlignment="9" Name="Recipe Data Source" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="30" X="785" Y="290" ZOrder="18">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="South" Visible="true" Width="119" X="741" Y="350"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+				</Actor>
+			</Shapes>
+		</UseCaseDiagram>
+	</Diagrams>
+</Project>
