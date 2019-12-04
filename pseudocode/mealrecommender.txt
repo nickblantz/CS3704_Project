@@ -1,0 +1,60 @@
+func generate_meals()
+    recipe_list = Send Meal Recommender API request with diet info
+    Sort recipe_list by % of ingredients found in fridge
+    Display recipe_list where recipes with higher % of ingredients
+            found in fridge appear first
+end
+
+func select_meal(Recipe recipe)
+    for each ingredient in recipe.requiredItems
+        if ingredient.amount < amount of that ingredient in fridge
+            Set display color to red
+            Set display font to bold
+        else
+            Set display color to black
+            Set display font to normal
+        end
+        Display “ingredient.quantity ingredient.quantityUnit
+                ingredient.food.name”
+    end
+end
+
+func order_missing_ingredients(Recipe recipe)
+    order = new Order initialized with primary vendor
+    for each ingredient in recipe.requiredItems
+        if ingredient.amount < amount of that ingredient in fridge
+            orderItem = an OrderLineItem from ingredient
+            Add orderItem to order.items
+        end
+    end
+    Check for approval with user of order
+    if user approves order
+        Send order to vendor
+end
+
+func add_allergen(String allergen)
+    diet = new Diet initialized with name=allergen,
+            restrictedFoods=[Food(allergen)],
+            calorieLimit=0
+    Add diet to userDiets
+    Display diet.name under last displayed allergen
+end
+
+
+func add_diet(String dietName)
+    possible_diets = list of diets preconfigured in the system
+    diet = the diet in possible_diets with a name=dietName
+    Add diet to userDiets
+    Display diet.name under last displayed diet
+end
+
+func use_health_app()
+    Display list of accepted health apps
+end
+
+func integrate(String appName)
+    Display appName’s integration API (in case user must login)
+    Remove list of accepted health apps from display
+    Display “appName has been integrated”
+end
+

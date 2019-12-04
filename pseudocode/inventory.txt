@@ -1,0 +1,47 @@
+Add Item
+Initiate method
+While done=false
+	Extract item information from RFID scan
+	Display item information
+	Update item information changes made by user
+Display items
+If confirmation=false
+	Return
+Else 
+	Loop through current items and main inventory lists
+		If item name exists
+			Update item weight and expiration date
+		Else
+			Add new item to inventory list
+Return 
+
+Remove Item
+Initiate method
+While done=false
+	Extract item information from RFID scan
+	Display item information
+	Update item information changes made by user
+Display items
+If confirmation=false
+	Return
+Else
+	Loop through current items and main inventory lists
+		Update item weight and expiration date
+Return
+
+List Items
+Initiate method
+If sort=alphabetical
+	Sort inventory list into alphabetical list
+	Display alphabetical list
+Else if sort=expiration
+	Sort inventory list by closest expiration date first
+	Display expiration list
+Return
+
+Usage Stats
+Initiate method
+Loop through inventory list
+Create list of usage stats with item information and calculated usage based of initial weight and current weight of each item
+Display usage stats list
+Return

@@ -1,0 +1,48 @@
+//Home Page
+
+func homePage(){
+        updateDisplayStatus(awake);
+    }
+
+//Sleep/Wake
+
+//global variables
+    state fridgeState;
+    int hour;
+    int minute;
+    String time;
+    bool imagePreference;
+    
+    func setClock(int hour, int minute){
+        time = hour + ":" + minute;
+    }
+    
+    func updateDisplayStatus(state value) {
+        if(value == "sleep") {
+            displayStatus = sleep;
+            hour = time.getHour();
+            minute = time.getMinute();
+            setClock(hour, minute);
+            if(imagePreference == true) {
+                sleepState(true, true, getClock());
+            }else {
+                sleepState(true, false, getClock());
+            }
+        }
+        if(value == "awake") {
+            displayStatus = awake;
+            displayLayout(getUserApps()); //display the apps saved by User Preferences            
+            break;
+        }
+    }
+    
+    func sleepState(bool sleep, bool imageRotate, clock currentTime) {
+        if(sleep == true) {
+            setfridgeState(sleep);
+        }else {
+            return homePage();
+        }
+    }
+
+
+

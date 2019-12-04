@@ -1,0 +1,34 @@
+func approve_order()
+  mark order as approved
+  if vendor accepts order
+    create alert "Order Submitted"
+  else
+    create alert "Order Declined by Vendor"
+  end
+end
+
+func create_order()
+  new_order = new order initialized with primary vendor
+  add new_order to active orders list
+end
+
+func add_restock_item(Item item)
+  restock_item = search primary vendor for matching item
+  budget_usage = sum totals of current week's restock orders
+  if budget_usage + restock_item.price <= weekly budget
+    add restock_item to restock list
+  else
+    error "Addition of item exceeds weekly budget"
+  end
+end
+
+func remove_restock_item(Item item)
+  restock_item = search primary vendor for matching item
+  remove restock_item from restock list
+end
+
+func update_settings(Vendor vendor, Address shipping_address, float weekly_budget)
+  this.vendor = vendor if vendor is not null
+  this.shipping_address = shipping_address if shipping_address is not null
+  this.weekly_budget = weekly_budget if weekly_budget is not null
+end
